@@ -1,4 +1,4 @@
-# pyspyderInFarm
+# pyspiderInFarm
 ## 可以干什么？
 ### 可以爬取[种地网](http://www.zhongdi168.com/)上所有的问答的文本
 ![pic1](images/pic1.png)
